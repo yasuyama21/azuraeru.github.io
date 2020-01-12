@@ -10,6 +10,10 @@ a {
   text-decoration: none;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .header {
   background-color: rgba(80, 80, 80, 1);
   color: white;
