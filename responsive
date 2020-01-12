@@ -1,0 +1,15 @@
+/* タブレット */
+@media(max-width: 1000px) {
+
+}
+
+/* スマートフォン */
+@media(max-width: 670px) {
+  .container {
+    width: 100%;
+  }
+
+  .main-title h1{
+    font-size: 30px;
+  }
+}
